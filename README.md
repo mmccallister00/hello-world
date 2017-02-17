@@ -1,2 +1,6 @@
 # hello-world
-hello world example for learning github
+
+
+Hello there!
+
+Just messing around learning how to use github.  Eventually I will add some java selenium projects.
